@@ -91,6 +91,7 @@ might be interested in hearing your talks, as well!
 A CFP is a "Call For Papers", "Call For Proposals", or "Call For
 Participation" depending on the conference.
 
+* [dev.events](https://dev.events)
 * [Opensource.com Events Calendar](https://opensource.com/resources/conferences-and-events-monthly)
 * [Papercall.io](https://www.papercall.io/cfps), tech with a DevOps focus
 * [WikiCFP](http://wikicfp.com/cfp/), primarily academic and industry * conferences
